@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Js.**
 
-- 👨‍💻 All of my projects are available at [aebedir.github.io](aebedir.github.io)
+- 👨‍💻 All of my projects are available at https://aebedir.github.io
 
 - 📫 How to reach me **ae.bedirr@gmail.com**
 
