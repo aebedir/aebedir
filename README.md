@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmet Emin</h1>
 <h3 align="center">Full Stack Developer - Elektronics and Communucation Engineer</h3>
 
+<h3>About Me :</h3>
+
+<h5>Hi, I am Ahmet Emin, i graduate from Yıldız Technical University, electrinonics and communication engineer. I have been learning software professionally for about 1 year. I have many projects in frontend and backend. There is a production that is willing to learn, learns fast and loves to research. I continue to learn new things and develop new projects every day.I want to plan myself a career in software </h5>
+<h6>Hallo, ich bin Ahmet Emin, ich habe einen Abschluss als Ingenieurwesen Elektronik und Kommunikationstechnik an der Technischen Universität Yıldız. Ich lerne seit etwa einem Jahr beruflich Software. Ich habe viele Projekte im Frontend und Backend. Es gibt eine lernwillige Produktion, die schnell lernt und gerne recherchiert. Ich lerne weiterhin neue Dinge und entwickle jeden Tag neue Projekte. Ich möchte mir eine Karriere im Softwarebereich planen </h6>
+
 - 🔭 I’m currently working on **Python - Django Project**
 
 - 🌱 I’m currently learning **React Js.**
