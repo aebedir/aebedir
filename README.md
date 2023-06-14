@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at https://aebedir.github.io
 
+- 📫 Linkedim **linkedin.com/in/aebedir1**
+
 - 📫 How to reach me **ae.bedirr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
