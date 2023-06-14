@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Python - Django Project**
 
-- 🌱 I’m currently learning **React Js.**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at https://aebedir.github.io
 
