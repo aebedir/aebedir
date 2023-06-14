@@ -3,7 +3,7 @@
 
 <h3>About Me :</h3>
 
-<h3 align="center" >Welcome to my profile. I'm Full Stack Web Developer. I am experienced in HTML, CSS, JavaScript, Python, Django and C# and I am constantly improving myself. I like to develop dynamic and user-friendly applications.
+<h3 align="center" >Welcome to my profile. I'm Full Stack Web Developer. I am experienced in HTML, CSS, Bootstrap, JavaScript, Python, Django and C# and I am constantly improving myself. I like to develop dynamic and user-friendly applications.
 I have projects and experiences with databases.</h3>
 
 <h3 align="center" >Willkommen in meinem Profil. Ich bin Full Stack Web Developer. Ich habe Erfahrung in HTML, CSS, JavaScript, Python, Django und C# und verbessere mich ständig. Ich entwickle gerne dynamische und benutzerfreundliche Anwendungen.
